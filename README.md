@@ -27,7 +27,7 @@ Using the D3 techniques we taught you in class, create a scatter plot that repre
 ![header image](https://raw.githubusercontent.com/MAPatxot/d3-challenge/master/Images/Screen%20Shot%202019-12-09%20at%2010.47.24%20PM.png)
 
 * Create and situate your axes and labels to the left and bottom of the chart.
-![header image](https://raw.githubusercontent.com/MAPatxot/d3-challenge/master/Images/Screen%20Shot%202019-12-09%20at%2010.49.16%20PM.png)
+![header image](https://raw.githubusercontent.com/MAPatxot/d3-challenge/master/Images/Screen%20Shot%202019-12-09%20at%2010.51.04%20PM.png)
 - - -
 
 ### Level 2: Impress the Boss (Optional Challenge Assignment)
