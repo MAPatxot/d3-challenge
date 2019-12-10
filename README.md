@@ -14,7 +14,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### Level 1: D3 Dabbler
 
-![4-scatter](Images/4-scatter.jpg)
+![header image](https://raw.githubusercontent.com/MAPatxot/d3-challenge/master/Images/Screen%20Shot%202019-12-09%20at%2010.15.35%20PM.png)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
