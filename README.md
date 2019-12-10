@@ -1,4 +1,4 @@
-Deployment: https://mapatxot.github.io/d3-challenge/
+GitHub Deployment: https://mapatxot.github.io/d3-challenge/
 
 # D3 Homework - Data Journalism and D3
 
